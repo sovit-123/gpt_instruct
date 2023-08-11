@@ -1,0 +1,6 @@
+__pycache__
+alpaca_distillgpt2_training
+alpaca_gpt2_training
+infer_model
+.ipynb_checkpoints
+alpaca_distillgpt2_training.ipynb
