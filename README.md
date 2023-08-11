@@ -21,4 +21,4 @@ Output:
 
 
 
-***If you retrain the model, copy the models, tokenizers, merges, ... from the resulting folder into the `infer_model` folder or change the path in the `gpt_instruct.py` file***
+***If you retrain the model, copy the models, tokenizers, merges, etc from the resulting folder into the `infer_model` folder or change the path in the `gpt_instruct.py` file***
